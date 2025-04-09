@@ -81,6 +81,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ---
 
@@ -99,7 +100,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alain-Pascal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="GitHub Stats" /></p>
 </details>
 
-<!-- ![Alain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alain-Pascal&show_icons=true&theme=gruvbox) -->
+
 
 <!--
 **Alain-Pascal/alain-pascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
