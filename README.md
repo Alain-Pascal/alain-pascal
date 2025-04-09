@@ -20,8 +20,6 @@
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/Alain-Pascal?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Alain-Pascal?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -79,6 +77,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ---
 
@@ -89,11 +88,13 @@
   
   ---
 -->
-### 📊 Stats
-
+<details open>
+  <summary><h2>📊 Stats</h2></summary
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alain-Pascal&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="Top Langs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alain-Pascal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="GitHub Stats" /></p>
+</details>
 
 <!-- ![Alain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alain-Pascal&show_icons=true&theme=gruvbox) -->
 
