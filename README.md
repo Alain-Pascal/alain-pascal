@@ -10,12 +10,15 @@
 </p>
 
 <!-- Social icons section -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishimwe-alain-pascal/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://icongr.am/fontawesome/linkedin.svg?color=36BCF7"/></a>
+  <a href="https://www.linkedin.com/in/ishimwe-alain-pascal/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://icongr.am/fontawesome/linkedin.svg?color=1f6feb"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/_alain_pascal_"><img width="32px" alt="Twitter" title="Twitter" src="https://icongr.am/fontawesome/twitter.svg?color=36BCF7"/></a>
+  <a href="https://x.com/_alain_pascal_"><img width="32px" alt="Twitter" title="Twitter" src="https://icongr.am/fontawesome/twitter.svg?color=1f6feb"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://discordapp.com/users/866793505933361162" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://icongr.am/simple/discord.svg?color=36BCF7"/></a>
+  <a href="http://discordapp.com/users/866793505933361162" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://icongr.am/simple/discord.svg?color=1f6feb"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://alain-pascal.github.io/portfolio/" alt="Portfolio" title="Github Portfolio"><img width="32px" src="https://icongr.am/clarity/world.svg?color=1f6feb"/></a>
 </p>
 <br/>
 
